@@ -4,12 +4,12 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/sdecena/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="" alt="" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Feature Display</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=sdecena/WD-Seatwork-4)
 
 ---
 
@@ -118,3 +118,7 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Feature 1 Hero Image | Hero Image used for Feature 1 | https://www.etsy.com/listing/1645109173/desktop-wallpaper-desktop-background |
+| Feature 1 Design Image | Image used for the first feature section | https://wallpapercave.com/wp/wp6655242.jpg |
+| Feature 1 Dynamics Image | Image used for the second feature section | https://wallpapercave.com/wp/wp8328789.jpg |
+| Feature 1 Driver Experience Image | Image used for the third feature section | https://www.autotrader.ca/editorial/media/dztleqqt/2023-porsche-911-carrera-t-17-bm.jpg?width=1920&height=1080&v=1d8fef2d3941e30 |
