@@ -122,3 +122,7 @@ WD-ProjectName
 | Feature 1 Design Image | Image used for the first feature section | https://wallpapercave.com/wp/wp6655242.jpg |
 | Feature 1 Dynamics Image | Image used for the second feature section | https://wallpapercave.com/wp/wp8328789.jpg |
 | Feature 1 Driver Experience Image | Image used for the third feature section | https://www.autotrader.ca/editorial/media/dztleqqt/2023-porsche-911-carrera-t-17-bm.jpg?width=1920&height=1080&v=1d8fef2d3941e30 |
+| Feature 2 Image 1 | Image used for the first image in feature 2 | https://community.oneplus.com/thread/1078546810768982018 |
+| Feature 2 Image 2 | Image used for the second image in feature 2 | https://sportauto.autojournal.fr/actu/sport-actu/formule-1/f1-scuderia-ferrari-changement-nom-sponsor-titre-grand-prix-miami-2024-414138.html#item=1 |
+| Feature 2 Image 3 | Image used for the third image in feature 2 | https://www.eurosport.com/formula-1/ferrari-difficult-to-ask-leclerc-to-move-for-vettel_sto7232006/story.shtml |
+| Gradient Effect on Image | Used for the gradient effect on the images | https://stackoverflow.com/questions/60515354/css-for-gradient-overlay-from-only-left-side |
