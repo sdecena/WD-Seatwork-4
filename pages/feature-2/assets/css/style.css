@@ -32,7 +32,7 @@ body {
   }
 
 /*HEADER*/
-header.design-anifive {
+header.feature2-header {
     width: 100vw;
     position: absolute;
     display: flex;
@@ -52,7 +52,7 @@ img.ani-company-logo5 {
     transition: all 900ms ease;
 }
 
-nav.ani-navigation5 {
+nav.header-navigation {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -66,7 +66,7 @@ nav.ani-navigation5 {
     }
 }
 
-.ani-nav1-design5 {
+.ani-nav1 {
     text-decoration: none;
     height: 1.5vw;
     width: 15vw;
@@ -77,7 +77,7 @@ nav.ani-navigation5 {
     color: white;
 }
 
-.ani-nav2-design5 {
+.ani-nav2 {
     text-decoration: none;
     height: 1.5vw;
     width: 15vw;
@@ -90,7 +90,7 @@ nav.ani-navigation5 {
 }
 
 
-nav.ani-navigation5-bot {
+nav.navigation-bot {
     background-color: rgba(0, 0, 0, 0.145);
     width: 200px;
     height: 30px;
@@ -109,20 +109,20 @@ nav.ani-navigation5-bot {
     }
 }
 
-.ani-des5-icon1 {
+.ani-icon1 {
     margin-top: 4.5px;
     margin-left: 10px;
     font-size: 20px;
 }
 
-.ani-des5-icon2 {
+.ani-icon2 {
     margin-left: 20px;
     margin-right: 10px;
     font-size: 20px;
 }
 
 
-.ani-nav1-design5:hover {
+.ani-nav1:hover {
     font-size: 1.1rem;
     font-style: italic;
     font-family: "Zen Dots";
@@ -130,7 +130,7 @@ nav.ani-navigation5-bot {
     filter: drop-shadow(4px 4px 4px #ffffffc6);
 }
 
-.ani-nav2-design5:hover {
+.ani-nav2:hover {
     font-size: 1.1rem;
     font-style: italic;
     font-family: "Zen Dots";
@@ -144,17 +144,17 @@ nav.ani-navigation5-bot {
 
 }
 
-.ani-des5-icon1:hover {
+.ani-icon1:hover {
     filter: drop-shadow(1px 1px 0px rgb(0, 0, 0));
 }
 
 
-.ani-des5-icon1:hover input {
+.ani-icon1:hover input {
     width: 80px;
     cursor: pointer;
 }
 
-.ani-des5-icon1 input {
+.ani-icon1 input {
     background: transparent;
     border: none;
     outline: none;
@@ -164,7 +164,7 @@ nav.ani-navigation5-bot {
     transition: 0.8s;
 }
 
-.ani-des5-icon1 li .fas {
+.ani-icon1 li .fas {
     color: black;
 }
 
@@ -209,7 +209,7 @@ nav.ani-navigation5-bot {
         font-size: 1.1rem;
         text-align: justify;
         margin-right: 7px;
-        
+
     }
 }
 
@@ -289,7 +289,7 @@ nav.ani-navigation5-bot {
 
 
 /*FOOTER*/
-footer.design-five-ani {
+footer.feature2-footer {
     width: 100vw;
     padding: 2rem 2vw;
     background: rgb(0, 0, 0);
@@ -303,7 +303,7 @@ footer.design-five-ani {
 
 }
 
-.footer-content-ani {
+.footer-content {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -334,7 +334,7 @@ img.company-logo5-ani {
     filter: drop-shadow(1px 2px 3px #000000);
 }
 
-nav.navigation5-ani {
+nav.navigation-ani {
     display: flex;
     flex-direction: column;
     align-items: center;

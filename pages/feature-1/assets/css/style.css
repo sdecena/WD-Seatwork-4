@@ -34,7 +34,7 @@ body {
 
 
 /*Header*/
-header.design-anithree {
+header.feature1-header {
     position: fixed;
     width: 100vw;
     display: flex;
@@ -47,11 +47,11 @@ header.design-anithree {
 }
 
 
-img.ani-company-logo3 {
+img.company-logo {
     height: 50px;
 }
 
-nav.ani-navigation3 {
+nav.header-navigation {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -62,7 +62,7 @@ nav.ani-navigation3 {
     }
 }
 
-.ani-navigation3 .ani-nav-design3 {
+.header-navigation .nav-design {
     font-weight: 600;
     font-size: 1.1rem;
     color: rgb(149, 149, 149);
@@ -70,7 +70,7 @@ nav.ani-navigation3 {
 
 }
 
-.ani2-search-icon {
+.header-search-icon {
     margin: 20px auto;
     background: rgb(69, 69, 69);
     height: 30px;
@@ -83,12 +83,12 @@ nav.ani-navigation3 {
     box-shadow: 0 0 25px rgba(0, 0, 0, 0.356);
 }
 
-.ani2-search-icon:hover input {
+.header-search-icon:hover input {
     width: 80px;
     cursor: pointer;
 }
 
-.ani2-search-icon input {
+.header-search-icon input {
     background: transparent;
     border: none;
     outline: none;
@@ -98,21 +98,21 @@ nav.ani-navigation3 {
     transition: 0.8s;
 }
 
-.ani2-search-icon li .fas {
+.header-search-icon li .fas {
     color: black;
 }
 
-.ani-navigation3 .ani-nav-design3 {
+.header-navigation .nav-design {
     position: relative;
     text-decoration: none;
 }
 
-button.ani-nav-design3:hover {
+button.nav-design:hover {
     color: rgb(149, 149, 149);
     transition: all 200ms ease;
   }
 
-.ani-navigation3 .ani-nav-design3::before {
+.header-navigation .nav-design::before {
     content: "";
     position: absolute;
     display: block;
@@ -126,18 +126,18 @@ button.ani-nav-design3:hover {
 
   }
 
-.ani-navigation3 .ani-nav-design3:hover::before {
+.header-navigation .nav-design:hover::before {
     transform: scaleX(1.1);
     background-color: rgb(149, 149, 149);
 
   }
 
-.ani-navigation3 .ani-nav-design3:active {
+.header-navigation .nav-design:active {
     color: rgb(255, 255, 255);
 
   }
 
-img.ani-company-logo3:hover {
+img.company-logo:hover {
     transition: all 1200ms ease;
     transform: scale(1.2);
 
@@ -159,7 +159,6 @@ img.ani-company-logo3:hover {
         align-items: center;
         justify-content: center;
         height: 70dvh;
-        background-olor: rgb(0, 17, 250);
         color: #c4c4c4;
         font-size: 4rem;
     }
@@ -189,7 +188,6 @@ img.ani-company-logo3:hover {
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-    background-c olor: yellowgreen;
     padding: 20px;
     color: white;
 
@@ -229,7 +227,6 @@ img.ani-company-logo3:hover {
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-    background-co lor: yellowgreen;
     padding: 20px;
     color: white;
     margin-top: -100px;
@@ -269,7 +266,6 @@ img.ani-company-logo3:hover {
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-    background- color: yellowgreen;
     padding: 20px;
     color: white;
     margin-top: -100px;
@@ -287,7 +283,7 @@ img.ani-company-logo3:hover {
 
 
 /*Footer*/
-footer.design-three-ani {
+footer.feature1-footer {
     
     left: 0;
     bottom: 0;
@@ -303,14 +299,14 @@ footer.design-three-ani {
     text-align: center;
 }
 
-.footer-content3-ani {
+.footer-content {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
 }
 
-button.nav2-design1-2-ani {
+button.nav2-design {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -324,13 +320,13 @@ button.nav2-design1-2-ani {
     margin-bottom: 3rem;
 }
 
-button.nav2-design1-2-ani i {
+button.nav2-design i {
     color: white;
     font-size: 1.5rem;
-    
+
 }
 
-.navigation2-footer2-ani {
+.navigation2-footer {
     color: white;
     display: flex;
     align-items: center;
@@ -354,10 +350,10 @@ button.nav2-design1-2-ani i {
 
 }
 
-.navigation2-footer2-ani p {
+.navigation2-footer p {
     transition: all 3100ms ease;
 }
-.navigation2-footer2-ani p:hover {
+.navigation2-footer p:hover {
     transform: scale(1.1);
     filter: drop-shadow(2px 2px 4px rgb(255, 255, 255));
 }
@@ -369,10 +365,10 @@ button.nav2-design1-2-ani i {
     filter: drop-shadow(7px 5px 5px #fdfdfd);
 }
 
-.navigation2-footer2-ani h3 {
+.navigation2-footer h3 {
     transition: all 100ms ease;
 }
-.navigation2-footer2-ani h3:hover {
+.navigation2-footer h3:hover {
     transform: scale(1.2);
     font-style: italic;
     font-weight: 400;
