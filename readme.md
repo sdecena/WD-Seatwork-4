@@ -48,6 +48,9 @@
     <li>
       <a href="#resources">Resources</a>
     </li>
+    <li>
+      <a href="#deployment-link">Deployment Link</a>
+    </li>
   </ol>
 </details>
 
@@ -122,3 +125,8 @@ WD-ProjectName
 | Feature 2 Image 2 | Image used for the second image in feature 2 | https://sportauto.autojournal.fr/actu/sport-actu/formule-1/f1-scuderia-ferrari-changement-nom-sponsor-titre-grand-prix-miami-2024-414138.html#item=1 |
 | Feature 2 Image 3 | Image used for the third image in feature 2 | https://www.eurosport.com/formula-1/ferrari-difficult-to-ask-leclerc-to-move-for-vettel_sto7232006/story.shtml |
 | Gradient Effect on Image | Used for the gradient effect on the images | https://stackoverflow.com/questions/60515354/css-for-gradient-overlay-from-only-left-side |
+
+
+## Deployment Link
+
+Link: https://sdecena.github.io/WD-Seatwork-4/
