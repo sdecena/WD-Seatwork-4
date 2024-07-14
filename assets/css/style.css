@@ -141,3 +141,36 @@ html, body {
     outline: 1px rgba(240, 46, 169, 0.827) solid;
     box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
 }
+
+.landing-buttons .navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 40px;
+    width: 140px;
+    background-color: rgb(133, 133, 133);
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 1rem;
+    outline: 1.5px rgba(0, 0, 0, 0.827) solid;
+    transition: all 400ms ease;
+    border-radius: 2px;
+
+}
+
+.navigation:hover {
+    transform: scale(1.3);
+    background-color: rgb(255, 255, 255);
+    color: rgba(240, 46, 169, 0.827);
+    outline: 1px rgba(240, 46, 169, 0.827) solid;
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+
+.navigation:active {
+    transform: scale(1);
+    background-color: rgba(255, 255, 255, 0.827);
+    color: rgba(240, 46, 169, 0.827);
+    outline: 1px rgba(240, 46, 169, 0.827) solid;
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
